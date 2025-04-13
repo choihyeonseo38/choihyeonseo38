@@ -1,61 +1,46 @@
-<h1 align="center" style="font-family: 'cursive'; color: #f78fe7;">🌸✨ Welcome to My Magical GitHub World ✨🌸</h1>
+<!-- README.md -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=gradient&color=ffb6c1,e6e6fa&height=200&section=header&text=Choi%20Hyeonseo's%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+
+<h1 align="center">
+  🌙✨ Welcome to My Magical GitHub! ✨🌙<br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=4000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Choi+Hyeonseo!;Frontend+Fairy+in+training+%F0%9F%A7%9A%E2%80%8D%E2%99%80%EF%B8%8F✨;React%2C+TypeScript+and+Magic!+%F0%9F%8C%9F" />
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3c0ZzU2ajJhcDJla2s4Z3hwNnFndnFnN3Jrc3R1d3gxZXRqYjFyeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
+  <img src="https://img.shields.io/badge/React-🪞%20Magical%20UI%20Tool-ffb6c1?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-💙%20Smart%20Magic%20Script-b39ddb?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%F0%9F%92%A1%20JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-%F0%9F%8C%B1%20Node-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%F0%9F%93%84%20HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%F0%9F%92%8D%20CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%F0%9F%90%8D%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-%F0%9F%96%AC%EF%B8%8F%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-<h3 align="center">안녕하세요 💖 최현서의 블링블링 깃허브 궁전에 오신 걸 환영해요 💫</h3>
-
-<p align="center" style="color:#ffb6c1;">
-🌈 오늘도 반짝이는 코드의 별빛 아래<br>
-✨ React, TypeScript, 그리고 디자인 마법을 배우고 있어요!<br>
-🌙 세일러문처럼 우아하게, 핑크빛 코딩을 즐기는 중이에요 💻💗
-</p>
+</div>
 
 ---
 
-## 💖 프로젝트 소개
+### 🌸 About Me
 
-- ✨ **To-do List Project** : 하루하루의 마법 같은 일정을 정리하는 리스트예요!
-- 🎀 **UI 마법 연습장** : 사랑스러운 디자인 감각을 키워가는 공간이에요!
-
----
-
-## 👑 프론트엔드 마법의 여정
-
-- 🌸 HTML / CSS로 꾸미기 시작!
-- 🌸 JavaScript로 마법 부리기
-- 🌸 React와 TypeScript로 별빛 구현 중
+- 🎨 React, TypeScript, UI 디자인 공부 중
+- 🧁 To-do List 앱 제작 중
+- 📌 [블로그 바로가기](https://pythonyum.tistory.com/)
 
 ---
 
-## 🌟 저를 소개할게요
+### 🧁 Tech I Use
 
-- 🧁 이름 : 최현서 (Choi Hyeonseo)
-- 🦄 관심사 : 반짝이는 UI/UX 디자인 ✨, 귀엽고 실용적인 프론트엔드 개발 💻
-- 🌙 꿈 : 공주님도 감탄할 만한 깃허브 포트폴리오 만들기!
+### 🛠 Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 
----
-
-## 🌈 GitHub 마법 카드
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=choihyeonseo38&show_icons=true&theme=tokyonight&title_color=f78fe7&icon_color=ffb6c1&text_color=f8e1f4&bg_color=ffffff00" />
-</p>
-
----
-
-## 💌 Contact Me
-
-💖 [이메일 보내기](mailto:your-email@example.com)  
-💖 [블로그 바로가기](https://yourblog.com)
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9mM3lqaWprZzQzZ3A1bHJubWd1OGs4dThhM3VnZXdtNzYwZjBubyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mGK1g88HZRa2FlKGbz/giphy.gif" width="250" />
-</p>
-
-<p align="center" style="font-size:20px;">
-  👑 오늘도 반짝이는 하루 보내세요! 💕✨
-</p>
