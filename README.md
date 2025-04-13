@@ -1,26 +1,34 @@
-<h1 align="center">
-  🌙✨ Welcome to My Magical GitHub! ✨🌙<br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=4000&color=FEC8D8&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Choi+Hyeonseo!;Frontend+Fairy+in+training+%F0%9F%A7%9A%E2%80%8D%E2%99%80%EF%B8%8F✨;React%2C+TypeScript+and+Magic!+%F0%9F%8C%9F" />
+<h1 align="center" style="font-size:3em; background: linear-gradient(to right, #ffdde1, #ee9ca7); color: white; padding: 20px; border-radius: 20px;">
+  💖 Choi Hyeonseo's Portfolio 💖
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-🪞%20Magical%20UI%20Tool-lightpink?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-💙%20Smart%20Magic%20Script-lightblue?style=for-the-badge&logo=typescript&logoColor=white" />
+  🌸 프론트엔드 개발자 지망생 최현서입니다 🌸<br>
+  리액트와 타입스크립트를 중심으로 UI를 직접 구현하고 있습니다.<br>
+  실습을 통해 작지만 반짝이는 프로젝트를 하나씩 쌓아가는 중이에요 ✨
 </p>
 
 ---
 
-### 🌸 About Me 🌸
+## ✨ 소개
 
-- 🌱 Studying **React**, **TypeScript**, and ✨UI design✨
-- 💖 Building a cute **To-do List App**
-- 🌟 Dreaming of becoming a Frontend Magical Girl! 🧚‍♀️
-- 🎀 Ask me anything, let’s sparkle together!
+- 🎯 **React**, **TypeScript** 기반의 프론트엔드 개발을 공부하고 있어요.
+- ✍️ 기술 학습 기록은 블로그에 정리 중이에요 → [블로그 보러가기](https://pythonyum.tistory.com/)
 
 ---
 
-### 🧁 Tech I Use
+## 💌 연락 & 활동
 
-```bash
-💫 React    🪄 TypeScript   💕 CSS Modules
-💻 VS Code  ✨ Figma        📦 npm
+- 🖥 블로그: [https://pythonyum.tistory.com/](https://pythonyum.tistory.com/)
+
+---
+
+## 🎀 깃허브 활동
+
+![Hyeonseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=choihyeonseo38&show_icons=true&theme=tokyonight&title_color=ffc0cb&icon_color=ffb6c1&text_color=ffffff&bg_color=DEG,ffdde1,ee9ca7)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=200&section=footer&text=Thank%20You!%20💗&fontSize=40&fontColor=fff" />
+</p>
