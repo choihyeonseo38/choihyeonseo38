@@ -1,17 +1,26 @@
-<h1 align="center">Hi 👋, I'm Choi Hyeonseo</h1>
+<h1 align="center">
+  🌙✨ Welcome to My Magical GitHub! ✨🌙<br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=4000&color=FEC8D8&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Choi+Hyeonseo!;Frontend+Fairy+in+training+%F0%9F%A7%9A%E2%80%8D%E2%99%80%EF%B8%8F✨;React%2C+TypeScript+and+Magic!+%F0%9F%8C%9F" />
+</h1>
+
 <p align="center">
-  🌱 I’m currently learning React, TypeScript, and UI design<br>
-  🔭 I’m working on a To-do List Project<br>
-  💬 Ask me about anything related to frontend
+  <img src="https://img.shields.io/badge/React-🪞%20Magical%20UI%20Tool-lightpink?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-💙%20Smart%20Magic%20Script-lightblue?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ---
 
-### 🛠 Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+### 🌸 About Me 🌸
+
+- 🌱 Studying **React**, **TypeScript**, and ✨UI design✨
+- 💖 Building a cute **To-do List App**
+- 🌟 Dreaming of becoming a Frontend Magical Girl! 🧚‍♀️
+- 🎀 Ask me anything, let’s sparkle together!
 
 ---
 
-### 📊 GitHub Stats
-![Hyeonseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=choihyeonseo38&show_icons=true&theme=radical)
+### 🧁 Tech I Use
+
+```bash
+💫 React    🪄 TypeScript   💕 CSS Modules
+💻 VS Code  ✨ Figma        📦 npm
