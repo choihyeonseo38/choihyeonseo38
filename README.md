@@ -4,7 +4,7 @@
 
 <h1 align="center">
   🌙✨ Welcome to My Magical GitHub! ✨🌙<br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=4000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Choi+Hyeonseo!;Frontend+Fairy+in+training+%F0%9F%A7%9A%E2%80%8D%E2%99%80%EF%B8%8F✨;React%2C+TypeScript+and+Magic!+%F0%9F%8C%9F" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=4000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Choi+Hyeonseo!;+%F0%9F%A7%9A%E2%80%8D%E2%99%80%EF%B8%8F✨;+%F0%9F%8C%9F" />
 </h1>
 
 </div>
