@@ -17,12 +17,6 @@
 
 ---
 
-## 💌 연락 & 활동
-
-- 🖥 블로그: [https://pythonyum.tistory.com/](https://pythonyum.tistory.com/)
-
----
-
 ## 🎀 깃허브 활동
 
 ![Hyeonseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=choihyeonseo38&show_icons=true&theme=tokyonight&title_color=ffc0cb&icon_color=ffb6c1&text_color=ffffff&bg_color=DEG,ffdde1,ee9ca7)
