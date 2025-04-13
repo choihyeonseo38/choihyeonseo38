@@ -35,10 +35,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=choihyeonseo38&show_icons=true&theme=omni&title_color=ff99cc&icon_color=ff99cc&text_color=ffffff&bg_color=DEG,ffccff,ffcce0,ffe6f2"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=choihyeonseo38&theme=pink&background=FFC0CB&currStreakLabel=ffffff&currStreakNum=ffffff"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB,FFB6C1,FF69B4&height=200&section=footer"/>
-</div>
 
