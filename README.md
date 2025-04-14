@@ -13,8 +13,8 @@
 
 ### 🌸 About Me
 
-- 🎨 React, TypeScript, UI 디자인 공부 중
-- 🧁 To-do List 앱 제작 중
+- 🎨 React, TypeScript 기반 공부중
+- 🧁 ddong와 협업 프로젝트중
 - 📌 [블로그 바로가기](https://pythonyum.tistory.com/)
 
 ---
